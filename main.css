@@ -1,5 +1,5 @@
 body {
-    background: #111D63;
+    background: #27316B;
 
 }
 
@@ -7,10 +7,19 @@ body {
     text-align: center;
     font-family: Arial, Arial, Helvetica, sans-serif;
     font-weight: 1000;
-    color:antiquewhite;
+    color:white;
+    font-size: xx-large;
+    text-shadow: black;
 }
 
 .topBar {
     text-align: right;
 }
 
+.siteName {
+    text-align: left;
+}
+
+#header {
+    font-size: 100;
+}
