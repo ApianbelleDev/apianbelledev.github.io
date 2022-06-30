@@ -1,9 +1,16 @@
+body {
+    background: #111D63;
+
+}
+
 * {
     text-align: center;
     font-family: Arial, Arial, Helvetica, sans-serif;
     font-weight: 1000;
+    color:antiquewhite;
 }
 
 .topBar {
     text-align: left;
 }
+
